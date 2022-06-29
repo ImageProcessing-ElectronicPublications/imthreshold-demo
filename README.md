@@ -14,6 +14,17 @@ See [>>> demo of ImThreshold >>>](./imthreshold)
 
 ---
 
+Main directions:
+
+ 1) DjVuL - An image bundle on the mask + foreground + background using "Multi-scale binarization";  
+ ![DjVuL](./images/djvul_small.jpg) 
+ 2) PMean - management of noise in images;  
+ ![Possible Mean](./images/pmean_small.jpg)  
+ 3) HRIS - image scaling up.  
+ ![Half Reverse Interpolation Scale](./images/hris_small.jpg)  
+
+---
+
  Website: https://sourceforge.net/projects/imthreshold/
 
  GIT: https://github.com/ImageProcessing-ElectronicPublications/imthreshold
