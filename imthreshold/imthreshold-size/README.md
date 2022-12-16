@@ -13,6 +13,11 @@ origin:
 
 ---
 
+`-f biakima -r 4` (x4, crop center):  
+![](./lena.size.x4.biakima.png)  
+`-f biakima -r 4 -p -1` (x4, IRIS, crop center):  
+![](./lena.size.x4.biakima.i.png)
+
 `-f bicont -r 4` (x4, crop center):  
 ![](./lena.size.x4.bicont.png)  
 `-f bicont -r 4 -p -1` (x4, IRIS, crop center):  
