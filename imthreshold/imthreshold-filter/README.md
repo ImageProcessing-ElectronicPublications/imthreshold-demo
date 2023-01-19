@@ -43,6 +43,9 @@ origin:
 `-f invert`:  
 ![](./lena.filter.invert.png)
 
+`-f kmeans`:  
+![](./lena.filter.kmeans.png)
+
 `-f levelmean`:  
 ![](./lena.filter.levelmean.png)
 
