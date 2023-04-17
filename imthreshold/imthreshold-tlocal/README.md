@@ -34,6 +34,9 @@ origin:
 `-f edge`:  
 ![](./lena.tlocal.edge.png)
 
+`-f edgeplus`:  
+![](./lena.tlocal.edgeplus.png)
+
 `-f gravure`:  
 ![](./lena.tlocal.gravure.png)
 
